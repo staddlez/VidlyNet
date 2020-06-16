@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VidlyNet", "VidlyNet\VidlyNet.csproj", "{99690A99-335F-4629-9A05-C66732529B7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VidlyNet.Tests", "VidlyNet.Tests\VidlyNet.Tests.csproj", "{AFDB8A74-DED5-4BCF-8BE7-748603D8C19B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99690A99-335F-4629-9A05-C66732529B7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99690A99-335F-4629-9A05-C66732529B7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99690A99-335F-4629-9A05-C66732529B7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99690A99-335F-4629-9A05-C66732529B7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFDB8A74-DED5-4BCF-8BE7-748603D8C19B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFDB8A74-DED5-4BCF-8BE7-748603D8C19B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFDB8A74-DED5-4BCF-8BE7-748603D8C19B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFDB8A74-DED5-4BCF-8BE7-748603D8C19B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8FDA4578-2448-42F0-922C-CD5A40E31145}
+	EndGlobalSection
+EndGlobal
